@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 226.8 226.8"
+	 style="enable-background:new 0 0 226.8 226.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.5;}
+	.st1{fill:none;stroke:#000000;stroke-width:5.6693;stroke-linecap:round;}
+	.st2{stroke:#000000;stroke-width:5.6693;stroke-linecap:round;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.728;stroke-linecap:round;}
+</style>
+<g>
+	<g id="board">
+		<rect id="boardoutline" x="0.3" y="0.3" class="st0" width="226.2" height="226.2"/>
+	</g>
+</g>
+<circle id="connector16pad" cx="120.9" cy="84.9" r="2.9"/>
+<rect x="118" y="82" width="5.7" height="5.7"/>
+<circle id="connector17pad" cx="120.9" cy="92.1" r="2.9"/>
+<circle id="connector18pad" cx="120.9" cy="99.3" r="2.9"/>
+<circle id="connector19pad" cx="120.9" cy="106.5" r="2.9"/>
+<circle id="connector20pad" cx="120.9" cy="113.7" r="2.9"/>
+<circle id="connector21pad" cx="120.9" cy="120.9" r="2.9"/>
+<circle id="connector22pad" cx="120.9" cy="128.1" r="2.9"/>
+<circle id="connector23pad" cx="120.9" cy="135.3" r="2.9"/>
+<circle id="connector24pad" cx="120.9" cy="142.5" r="2.9"/>
+<circle id="connector25pad" cx="120.9" cy="149.7" r="2.9"/>
+<circle id="connector26pad" cx="120.9" cy="156.9" r="2.9"/>
+<circle id="connector27pad" cx="120.9" cy="164.1" r="2.9"/>
+<circle id="connector28pad" cx="120.9" cy="171.3" r="2.9"/>
+<circle id="connector29pad" cx="120.9" cy="178.5" r="2.9"/>
+<circle id="connector30pad" cx="120.9" cy="185.7" r="2.9"/>
+<circle id="connector31pad" cx="77.7" cy="84.9" r="2.9"/>
+<circle id="connector32pad" cx="77.7" cy="92.1" r="2.9"/>
+<circle id="connector33pad" cx="77.7" cy="99.3" r="2.9"/>
+<circle id="connector34pad" cx="77.7" cy="106.5" r="2.9"/>
+<circle id="connector35pad" cx="77.7" cy="113.7" r="2.9"/>
+<circle id="connector36pad" cx="77.7" cy="120.9" r="2.9"/>
+<circle id="connector37pad" cx="77.7" cy="128.1" r="2.9"/>
+<circle id="connector38pad" cx="77.7" cy="135.3" r="2.9"/>
+<circle id="connector39pad" cx="77.7" cy="142.5" r="2.9"/>
+<circle id="connector40pad" cx="77.7" cy="149.7" r="2.9"/>
+<circle id="connector41pad" cx="77.7" cy="156.9" r="2.9"/>
+<circle id="connector42pad" cx="77.7" cy="164.1" r="2.9"/>
+<circle id="connector43pad" cx="77.7" cy="171.3" r="2.9"/>
+<circle id="connector44pad" cx="77.7" cy="178.5" r="2.9"/>
+<circle id="connector45pad" cx="77.7" cy="185.7" r="2.9"/>
+<circle id="connector6pad" cx="192.9" cy="192.9" r="2.1"/>
+<circle id="connector7pad" cx="192.9" cy="185.7" r="2.8"/>
+<circle id="connector8pad" cx="192.9" cy="178.5" r="2.8"/>
+<circle id="connector9pad" cx="192.9" cy="171.3" r="2.8"/>
+<circle id="connector10pad" cx="192.9" cy="164.1" r="2.8"/>
+<circle id="connector11pad" cx="192.9" cy="156.9" r="2.8"/>
+<circle id="connector12pad" cx="192.9" cy="149.7" r="2.8"/>
+<circle id="connector13pad" cx="192.9" cy="142.5" r="2.8"/>
+<circle id="connector14pad" cx="149.7" cy="142.5" r="2.8"/>
+<circle id="connector15pad" cx="149.7" cy="149.7" r="2.8"/>
+<circle id="connector16pad_1_" cx="149.7" cy="156.9" r="2.8"/>
+<circle id="connector17pad_1_" cx="149.7" cy="164.1" r="2.8"/>
+<circle id="connector18pad_1_" cx="149.7" cy="171.3" r="2.8"/>
+<circle id="connector19pad_1_" cx="149.7" cy="178.5" r="2.8"/>
+<circle id="connector20pad_1_" cx="149.7" cy="185.7" r="2.8"/>
+<circle id="connector21pad_1_" cx="149.7" cy="192.9" r="2.8"/>
+<circle id="connector6pad_1_" cx="192.9" cy="128.1" r="2.8"/>
+<circle id="connector7pad_1_" cx="192.9" cy="120.9" r="2.8"/>
+<circle id="connector8pad_1_" cx="192.9" cy="113.7" r="2.8"/>
+<circle id="connector9pad_1_" cx="192.9" cy="106.5" r="2.8"/>
+<circle id="connector10pad_1_" cx="192.9" cy="99.3" r="2.8"/>
+<circle id="connector11pad_1_" cx="192.9" cy="92.1" r="2.8"/>
+<circle id="connector12pad_1_" cx="192.9" cy="84.9" r="2.8"/>
+<circle id="connector13pad_1_" cx="192.9" cy="77.7" r="2.8"/>
+<circle id="connector14pad_1_" cx="149.7" cy="77.7" r="2.8"/>
+<circle id="connector15pad_1_" cx="149.7" cy="84.9" r="2.8"/>
+<circle id="connector16pad_2_" cx="149.7" cy="92.1" r="2.8"/>
+<circle id="connector17pad_2_" cx="149.7" cy="99.3" r="2.8"/>
+<circle id="connector18pad_2_" cx="149.7" cy="106.5" r="2.8"/>
+<circle id="connector19pad_2_" cx="149.7" cy="113.7" r="2.8"/>
+<circle id="connector20pad_2_" cx="149.7" cy="120.9" r="2.8"/>
+<circle id="connector21pad_2_" cx="149.7" cy="128.1" r="2.8"/>
+<circle id="connector0pin" cx="56.1" cy="142.5" r="2.8"/>
+<circle id="connector1pin" cx="56.1" cy="135.3" r="2.8"/>
+<circle id="connector2pin" cx="56.1" cy="128.1" r="2.8"/>
+<circle id="connector3pin" cx="56.1" cy="120.9" r="2.8"/>
+<circle id="connector0pin_1_" cx="48.9" cy="164.1" r="2.8"/>
+<circle id="connector1pin_1_" cx="48.9" cy="171.3" r="2.8"/>
+<circle id="connector2pin_1_" cx="48.9" cy="178.5" r="2.8"/>
+<circle id="connector3pin_1_" cx="48.9" cy="185.7" r="2.8"/>
+<circle id="connector0pin_2_" cx="84.9" cy="63.3" r="2.8"/>
+<circle id="connector1pin_2_" cx="92.1" cy="63.3" r="2.8"/>
+<circle id="connector2pin_2_" cx="99.3" cy="63.3" r="2.8"/>
+<circle id="connector3pin_2_" cx="106.5" cy="63.3" r="2.8"/>
+<circle id="connector0pin_3_" cx="56.1" cy="164.1" r="2.8"/>
+<circle id="connector1pin_3_" cx="56.1" cy="171.3" r="2.8"/>
+<circle id="connector2pin_3_" cx="56.1" cy="178.5" r="2.8"/>
+<circle id="connector3pin_3_" cx="56.1" cy="185.7" r="2.8"/>
+<circle id="connector0pin_4_" cx="70.5" cy="128.1" r="2.8"/>
+<circle id="connector1pin_4_" cx="70.5" cy="135.3" r="2.8"/>
+<circle id="connector0pin_5_" cx="207.3" cy="106.5" r="2.8"/>
+<circle id="connector1pin_5_" cx="207.3" cy="99.3" r="2.8"/>
+<circle id="connector0pin_6_" cx="207.3" cy="113.7" r="2.8"/>
+<circle id="connector1pin_6_" cx="207.3" cy="120.9" r="2.8"/>
+<circle id="connector0pin_7_" cx="207.3" cy="171.3" r="2.8"/>
+<circle id="connector1pin_7_" cx="207.3" cy="164.1" r="2.8"/>
+<circle id="connector0pin_8_" cx="207.3" cy="178.5" r="2.8"/>
+<circle id="connector1pin_8_" cx="207.3" cy="185.7" r="2.8"/>
+<g>
+	<g transform="translate(238.728,133.861)">
+		<g transform="matrix(-1,0,0,-1,0,0)">
+			<g id="copper1_12_">
+				<g id="copper0_12_">
+					<circle id="connector0pin_9_" cx="211.4" cy="13" r="4.3"/>
+					<circle id="connector1pin_9_" cx="228.7" cy="13" r="4.3"/>
+					<circle id="connector2pin_4_" cx="220.1" cy="26.6" r="4.3"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(238.728,198.661)">
+		<g transform="matrix(-1,0,0,-1,0,0)">
+			<g id="copper1_13_">
+				<g id="copper0_13_">
+					<circle id="connector0pin_10_" cx="211.4" cy="13" r="4.3"/>
+					<circle id="connector1pin_10_" cx="228.7" cy="13" r="4.3"/>
+					<circle id="connector2pin_5_" cx="220.1" cy="26.6" r="4.3"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st1" x1="214.3" y1="142.4" x2="195.1" y2="142.5"/>
+</g>
+<g>
+	<line class="st1" x1="72.7" y1="135.3" x2="75.6" y2="135.3"/>
+</g>
+<g>
+	<line class="st1" x1="72.7" y1="128.1" x2="75.6" y2="128.1"/>
+</g>
+<g>
+	<line class="st1" x1="56.2" y1="113.9" x2="75.6" y2="113.7"/>
+</g>
+<g>
+	<line class="st1" x1="56.1" y1="118.7" x2="56.2" y2="113.9"/>
+</g>
+<g>
+	<line class="st1" x1="63.4" y1="128.2" x2="63.4" y2="121"/>
+</g>
+<g>
+	<line class="st1" x1="63.4" y1="121" x2="75.6" y2="120.9"/>
+</g>
+<g>
+	<line class="st1" x1="58.3" y1="128.1" x2="63.4" y2="128.2"/>
+</g>
+<g>
+	<line class="st1" x1="63.4" y1="142.6" x2="63.4" y2="135.4"/>
+</g>
+<g>
+	<line class="st1" x1="63.4" y1="135.4" x2="58.3" y2="135.3"/>
+</g>
+<g>
+	<line class="st1" x1="75.6" y1="142.5" x2="63.4" y2="142.6"/>
+</g>
+<g>
+	<line class="st1" x1="56.2" y1="149.8" x2="56.1" y2="144.7"/>
+</g>
+<g>
+	<line class="st1" x1="75.6" y1="149.7" x2="56.2" y2="149.8"/>
+</g>
+<g>
+	<line class="st2" x1="113.6" y1="121" x2="118.8" y2="120.9"/>
+</g>
+<g>
+	<line class="st2" x1="113.6" y1="77.5" x2="113.6" y2="121"/>
+</g>
+<g>
+	<line class="st2" x1="147.4" y1="77.7" x2="113.6" y2="77.5"/>
+</g>
+<g>
+	<line class="st1" x1="147.4" y1="84.9" x2="123" y2="84.9"/>
+</g>
+<g>
+	<line class="st1" x1="123" y1="92.1" x2="147.4" y2="92.1"/>
+</g>
+<g>
+	<line class="st1" x1="128" y1="178.6" x2="123" y2="178.5"/>
+</g>
+<g>
+	<line class="st1" x1="128" y1="185.6" x2="128" y2="178.6"/>
+</g>
+<g>
+	<line class="st2" x1="147.4" y1="185.7" x2="128" y2="185.6"/>
+</g>
+<g>
+	<line class="st1" x1="142.4" y1="128" x2="142.4" y2="135.4"/>
+</g>
+<g>
+	<line class="st1" x1="142.4" y1="135.4" x2="135.4" y2="135.4"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="135.4" x2="123" y2="135.3"/>
+</g>
+<g>
+	<line class="st1" x1="142.4" y1="121" x2="142.4" y2="128"/>
+</g>
+<g>
+	<line class="st1" x1="147.4" y1="120.9" x2="142.4" y2="121"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="171.2" x2="123" y2="171.3"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="178.6" x2="135.4" y2="171.2"/>
+</g>
+<g>
+	<line class="st2" x1="147.4" y1="178.5" x2="135.4" y2="178.6"/>
+</g>
+<g>
+	<line class="st1" x1="142.4" y1="171.2" x2="147.4" y2="171.3"/>
+</g>
+<g>
+	<line class="st1" x1="142.4" y1="164.2" x2="142.4" y2="171.2"/>
+</g>
+<g>
+	<line class="st1" x1="123" y1="164.1" x2="142.4" y2="164.2"/>
+</g>
+<g>
+	<line class="st1" x1="128" y1="113.6" x2="128" y2="106.6"/>
+</g>
+<g>
+	<line class="st1" x1="128" y1="106.6" x2="147.4" y2="106.5"/>
+</g>
+<g>
+	<line class="st1" x1="123" y1="113.7" x2="128" y2="113.6"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="113.6" x2="147.4" y2="113.7"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="128" x2="135.4" y2="121"/>
+</g>
+<g>
+	<line class="st1" x1="135.4" y1="121" x2="135.4" y2="113.6"/>
+</g>
+<g>
+	<line class="st1" x1="128" y1="128" x2="135.4" y2="128"/>
+</g>
+<g>
+	<line class="st1" x1="123" y1="128.1" x2="128" y2="128"/>
+</g>
+<g>
+	<line class="st1" x1="147.4" y1="142.5" x2="123" y2="142.5"/>
+</g>
+<g>
+	<line class="st2" x1="156.8" y1="200" x2="156.8" y2="156.8"/>
+</g>
+<g>
+	<line class="st2" x1="120.8" y1="200" x2="156.8" y2="200"/>
+</g>
+<g>
+	<line class="st1" x1="156.8" y1="156.8" x2="151.9" y2="156.9"/>
+</g>
+<g>
+	<line class="st2" x1="120.9" y1="187.8" x2="120.8" y2="200"/>
+</g>
+<g>
+	<line class="st2" x1="164.1" y1="207.4" x2="77.7" y2="207.2"/>
+</g>
+<g>
+	<line class="st2" x1="77.7" y1="207.2" x2="77.7" y2="187.8"/>
+</g>
+<g>
+	<line class="st2" x1="164.1" y1="149.8" x2="164.1" y2="207.4"/>
+</g>
+<g>
+	<line class="st1" x1="151.9" y1="149.7" x2="164.1" y2="149.8"/>
+</g>
+<g>
+	<line class="st1" x1="41.8" y1="185.7" x2="31.7" y2="185.7"/>
+</g>
+<g>
+	<line class="st2" x1="41.8" y1="84.7" x2="41.8" y2="185.7"/>
+</g>
+<g>
+	<line class="st2" x1="75.6" y1="84.9" x2="41.8" y2="84.7"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="56.1" x2="178.5" y2="84.9"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="84.9" x2="190.6" y2="84.9"/>
+</g>
+<g>
+	<line class="st2" x1="77.7" y1="56" x2="178.5" y2="56.1"/>
+</g>
+<g>
+	<line class="st2" x1="77.7" y1="82.8" x2="77.7" y2="56"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="149.8" x2="178.5" y2="113.6"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="84.9" x2="190.6" y2="84.9"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="113.6" x2="178.5" y2="84.9"/>
+</g>
+<g>
+	<line class="st2" x1="190.6" y1="149.7" x2="178.5" y2="149.8"/>
+</g>
+<g>
+	<line class="st2" x1="171.1" y1="193" x2="171.1" y2="214.4"/>
+</g>
+<g>
+	<line class="st2" x1="49" y1="157" x2="49" y2="91.9"/>
+</g>
+<g>
+	<line class="st1" x1="70.4" y1="156.8" x2="49" y2="157"/>
+</g>
+<g>
+	<line class="st2" x1="49" y1="91.9" x2="75.6" y2="92.1"/>
+</g>
+<g>
+	<line class="st2" x1="171.1" y1="214.4" x2="70.4" y2="214.4"/>
+</g>
+<g>
+	<line class="st2" x1="70.4" y1="214.4" x2="70.4" y2="156.8"/>
+</g>
+<g>
+	<line class="st3" x1="190.6" y1="192.9" x2="171.1" y2="193"/>
+</g>
+<g>
+	<line class="st2" x1="171.1" y1="193" x2="171.1" y2="128"/>
+</g>
+<g>
+	<line class="st2" x1="171.1" y1="128" x2="151.9" y2="128.1"/>
+</g>
+<g>
+	<line class="st1" x1="190.6" y1="192.9" x2="171.1" y2="193"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="185.7" x2="195.1" y2="185.7"/>
+</g>
+<g>
+	<line class="st1" x1="195.1" y1="178.5" x2="205.1" y2="178.5"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="171.3" x2="195.1" y2="171.3"/>
+</g>
+<g>
+	<line class="st1" x1="195.1" y1="164.1" x2="205.1" y2="164.1"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="120.9" x2="195.1" y2="120.9"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="113.7" x2="195.1" y2="113.7"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="106.5" x2="195.1" y2="106.5"/>
+</g>
+<g>
+	<line class="st1" x1="205.1" y1="99.3" x2="195.1" y2="99.3"/>
+</g>
+<g>
+	<line class="st2" x1="27.2" y1="49.1" x2="27.5" y2="77.5"/>
+</g>
+<g>
+	<line class="st2" x1="27.5" y1="77.5" x2="27.3" y2="116.5"/>
+</g>
+<g>
+	<line class="st2" x1="214.3" y1="49.1" x2="27.2" y2="49.1"/>
+</g>
+<g>
+	<line class="st1" x1="214.3" y1="142.4" x2="214.3" y2="49.1"/>
+</g>
+<g>
+	<line class="st3" x1="214.3" y1="77.9" x2="214.3" y2="142.4"/>
+</g>
+<g>
+	<line class="st1" x1="195.1" y1="77.7" x2="214.3" y2="77.9"/>
+</g>
+<g>
+	<line class="st2" x1="10" y1="181.3" x2="10" y2="125.3"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="84.9" x2="178.5" y2="99.3"/>
+</g>
+<g>
+	<line class="st2" x1="178.5" y1="99.3" x2="151.9" y2="99.3"/>
+</g>
+<g>
+	<line class="st2" x1="12.8" y1="214.4" x2="10.4" y2="190.1"/>
+</g>
+<g>
+	<line class="st2" x1="70.4" y1="214.4" x2="12.8" y2="214.4"/>
+</g>
+<g>
+	<line class="st2" x1="106.5" y1="149.8" x2="106.5" y2="65.5"/>
+</g>
+<g>
+	<line class="st2" x1="118.8" y1="149.7" x2="106.5" y2="149.8"/>
+</g>
+<g>
+	<line class="st2" x1="99.3" y1="157" x2="118.8" y2="156.9"/>
+</g>
+<g>
+	<line class="st2" x1="99.3" y1="65.5" x2="99.3" y2="157"/>
+</g>
+<g>
+	<line class="st2" x1="92.1" y1="164.1" x2="92.1" y2="65.5"/>
+</g>
+<g>
+	<line class="st1" x1="79.8" y1="164.1" x2="92.1" y2="164.1"/>
+</g>
+<g>
+	<line class="st2" x1="84.9" y1="157" x2="79.8" y2="156.9"/>
+</g>
+<g>
+	<line class="st2" x1="84.9" y1="65.5" x2="84.9" y2="157"/>
+</g>
+<g>
+	<line class="st1" x1="70.4" y1="156.8" x2="56" y2="156.8"/>
+</g>
+<g>
+	<line class="st1" x1="56" y1="156.8" x2="56.1" y2="161.9"/>
+</g>
+<g>
+	<line class="st1" x1="56.1" y1="183.5" x2="56.1" y2="180.7"/>
+</g>
+<g>
+	<line class="st1" x1="56.1" y1="176.3" x2="56.1" y2="173.5"/>
+</g>
+<g>
+	<line class="st1" x1="56.1" y1="169.1" x2="56.1" y2="166.3"/>
+</g>
+<g>
+	<line class="st1" x1="48.9" y1="169.1" x2="48.9" y2="166.3"/>
+</g>
+<g>
+	<line class="st1" x1="48.9" y1="176.3" x2="48.9" y2="173.5"/>
+</g>
+<g>
+	<line class="st1" x1="48.9" y1="183.5" x2="48.9" y2="180.7"/>
+</g>
+<g>
+	<line class="st1" x1="41.8" y1="185.7" x2="46.7" y2="185.7"/>
+</g>
+</svg>
